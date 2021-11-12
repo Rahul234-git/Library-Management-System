@@ -1,0 +1,7 @@
+{
+        "_id" : 1,
+        "Username" : "rahul123@",
+        "Name" : "Rahul Kumar",
+        "Email" : "rahulsoniiit123@gmail.com",
+        "Contact_Number" : "9110991894"
+}

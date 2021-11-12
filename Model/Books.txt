@@ -1,0 +1,34 @@
+{
+        "_id" : 1,
+        "Name" : "Revolution 2020",
+        "Author" : "Chetan Bhagat",
+        "Availability_Status" : "Available"
+}
+{
+        "_id" : 2,
+        "Name" : "John Adams",
+        "Author" : "David McCullough",
+        "Availability_Status" : "Available",
+        "__v" : 0
+}
+{
+        "_id" : 3,
+        "Name" : "The Guns of August",
+        "Author" : "Barbara W. Tuchman",
+        "Availability_Status" : "Available",
+        "__v" : 0
+}
+{
+        "_id" : 4,
+        "Name" : "Hiroshima",
+        "Author" : "John Hersey",
+        "Availability_Status" : "Available",
+        "__v" : 0
+}
+{
+        "_id" : 5,
+        "Name" : "ULYSSESf",
+        "Author" : "James Joyce",
+        "Availability_Status" : "Available",
+        "__v" : 0
+}

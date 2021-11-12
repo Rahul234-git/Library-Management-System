@@ -1,0 +1,10 @@
+{
+        "_id" : 1,
+        "User_details_of_the_transaction" : "",
+        "Book_details" : [
+                "Hiroshima",
+                "John Hersey"
+        ],
+        "Due_date_of_the_book" : null,
+        "transaction_status" : ""
+}
